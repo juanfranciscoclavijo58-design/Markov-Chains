@@ -1,1 +1,5 @@
-The following matrix is the generator matrix of a three-state continuous time Markov Chain 
+Here you will find the solutions to the exercise, which addresses the following questions:
+1) The row sums of the generator matrix
+2) The behavior of a continuous Markov function and Memorylessness
+3) Jump Chain
+
